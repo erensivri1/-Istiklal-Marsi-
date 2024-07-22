@@ -1,2 +1,2 @@
-# -stiklal-Mar-
+# -Istiklal-Marsı-
 İstiklal Marşı website
