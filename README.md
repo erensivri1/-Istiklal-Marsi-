@@ -1,3 +1,3 @@
 # -Istiklal-Marsı-
-HTML CSS ilk çalışmam
+HTML CSS olarak ilk çalışmam. Yazılım alanında kendimi geliştirdikten sonra başlama noktamı hatırlatacaktır.
 
